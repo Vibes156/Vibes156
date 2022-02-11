@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vibess
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Become a Data Science
 - 🌱 I’m currently learning R programming
 
 
